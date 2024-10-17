@@ -388,8 +388,8 @@ seriesTrending2.forEach((serie, index) => {
     console.log('---------------------');
 });
 
-
 console.log("%c12.- Filtrado, transformación y busqueda de elementos - (.filter(), .map(), .include()) ", style_console);
+
 // Usando Filter para filtrar , y map para transformar la información.
 // Lista de series que queremos verificar
 let seriesDeseadas = ["The Walking Dead", "The Boys", "Loki"];
